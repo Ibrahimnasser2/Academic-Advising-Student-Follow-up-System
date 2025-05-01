@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703641284708",
+    "project_id": "followupst",
+    "storage_bucket": "followupst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703641284708:android:ae61b7d60878814430ef71",
+        "android_client_info": {
+          "package_name": "com.example.followupst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4t3yziuo9yYdigLDLC6jt0oy3kxXfjRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
